@@ -6,6 +6,8 @@
 ```js
 ng new ng-lib-wspace
 ng serve --open
+ng serve ng6-lib-wspace --open
+ng serve ng6-lib-sample --open
 
 ng generate library ng6-rxjs-lib-demo --prefix=xlw
 ng build --prod ng6-rxjs-lib-demo
@@ -133,4 +135,6 @@ ng serve
 
 - ?more advanced concepts such as working with assets, dependencies, considerations for services, approaches to entry files, etc.
 
+- `https://blog.angularindepth.com/angular-and-internet-explorer-5e59bb6fb4e9`
 - Support IE: `https://blog.angularindepth.com/angular-and-internet-explorer-5e59bb6fb4e9`
+- `https://github.com/angular/angular-cli/wiki/serve`
