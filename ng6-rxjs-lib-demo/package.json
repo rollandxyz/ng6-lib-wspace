@@ -1,0 +1,21 @@
+{
+  "name": "ng6-rxjs-lib-demo",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/ng6-rxjs-lib-demo.umd.js",
+  "module": "fesm5/ng6-rxjs-lib-demo.js",
+  "es2015": "fesm2015/ng6-rxjs-lib-demo.js",
+  "esm5": "esm5/ng6-rxjs-lib-demo.js",
+  "esm2015": "esm2015/ng6-rxjs-lib-demo.js",
+  "fesm5": "fesm5/ng6-rxjs-lib-demo.js",
+  "fesm2015": "fesm2015/ng6-rxjs-lib-demo.js",
+  "typings": "ng6-rxjs-lib-demo.d.ts",
+  "metadata": "ng6-rxjs-lib-demo.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

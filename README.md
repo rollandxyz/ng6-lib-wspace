@@ -109,6 +109,19 @@ npm install ../ng6-rxjs-lib-demo/dist/ng6-rxjs-lib-demo/ng6-rxjs-lib-demo-0.0.1.
 
 ```
 
+## Publish Library
+
+- build library `npm run build_lib`
+- copy dist to publish repository folder `npm run dist_xcopy` which it does the following
+`Xcopy  /S /I /E /Y dist\\ng6-rxjs-lib-demo  ..\\ng6-lib-publish`
+https://www.windows-commandline.com/xcopy-command-syntax-examples/
+- commit and push publish to github and release it
+- All abover steps have been combined with one command: `npm run build_lib_dist_publish`
+
+## Install by other standalone app
+`npm install git://github.com/rollandxyz/ng6-lib-publish.git --Save`
+
+
 ### Best practices
 
 - ALWAYS: Create your workspace using the name of your library-app. Then rename it to the name of your library.

@@ -1,7 +1,3 @@
-/*
- * Public API Surface of ng6-rxjs-lib-demo
- */
-
 export { Ng6RxjsLibDemoService } from './lib/ng6-rxjs-lib-demo.service';
 export { Ng6RxjsLibDemoModule } from './lib/ng6-rxjs-lib-demo.module';
 export { Ng6RxjsLibDemoComponent } from './lib/ng6-rxjs-lib-demo.component';

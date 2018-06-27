@@ -1,0 +1,13 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+/*
+ * Public API Surface of ng6-rxjs-lib-demo
+ */
+export { Ng6RxjsLibDemoService } from './lib/ng6-rxjs-lib-demo.service';
+export { Ng6RxjsLibDemoModule } from './lib/ng6-rxjs-lib-demo.module';
+export { Ng6RxjsLibDemoComponent } from './lib/ng6-rxjs-lib-demo.component';
+export { SimpleTableComponent } from './lib/components/simple-table/simple-table.component';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nNi1yeGpzLWxpYi1kZW1vLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsT0FBTyxFQUFFLHFCQUFxQixFQUFFLE1BQU0saUNBQWlDLENBQUM7QUFDeEUsT0FBTyxFQUFFLG9CQUFvQixFQUFFLE1BQU0sZ0NBQWdDLENBQUM7QUFDdEUsT0FBTyxFQUFFLHVCQUF1QixFQUFFLE1BQU0sbUNBQW1DLENBQUM7QUFDNUUsT0FBTyxFQUFFLG9CQUFvQixFQUFFLE1BQU0sc0RBQXNELENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5nNi1yeGpzLWxpYi1kZW1vXG4gKi9cblxuZXhwb3J0IHsgTmc2Unhqc0xpYkRlbW9TZXJ2aWNlIH0gZnJvbSAnLi9saWIvbmc2LXJ4anMtbGliLWRlbW8uc2VydmljZSc7XG5leHBvcnQgeyBOZzZSeGpzTGliRGVtb01vZHVsZSB9IGZyb20gJy4vbGliL25nNi1yeGpzLWxpYi1kZW1vLm1vZHVsZSc7XG5leHBvcnQgeyBOZzZSeGpzTGliRGVtb0NvbXBvbmVudCB9IGZyb20gJy4vbGliL25nNi1yeGpzLWxpYi1kZW1vLmNvbXBvbmVudCc7XG5leHBvcnQgeyBTaW1wbGVUYWJsZUNvbXBvbmVudCB9IGZyb20gJy4vbGliL2NvbXBvbmVudHMvc2ltcGxlLXRhYmxlL3NpbXBsZS10YWJsZS5jb21wb25lbnQnO1xuIl19
